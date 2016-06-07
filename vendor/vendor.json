@@ -1,0 +1,17 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "bUS2MDxVCTqEYJCE81XBwd6dSPw=",
+			"path": "github.com/PuloV/ics-golang",
+			"revision": "cec90f0eda469d25888ccb9bfaddd8b31b76f9cf",
+			"revisionTime": "2015-05-18T13:42:26Z"
+		},
+		{
+			"path": "https://github.com/PuloV/ics-golang",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/phartz/fancyloader"
+}
